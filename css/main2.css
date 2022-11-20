@@ -92,7 +92,7 @@ body {
 
 
 .form-group{
- text-align: center;
+ text-align: left;
 align-items: center;
 border-radius: 5px;
 padding: 7px;
@@ -105,3 +105,4 @@ margin: 0 auto;
   justify-content:center;
   align-items:center;
 }
+
