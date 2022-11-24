@@ -15,7 +15,7 @@ body {
   }
 
   #imagen1{
- display: block;
+ display: flex;
  margin: auto;
-
+align-items: center;
   }
